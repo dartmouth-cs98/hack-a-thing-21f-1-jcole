@@ -59,6 +59,6 @@ const styles = StyleSheet.create({
       button: {
           width: '40%'
       }
-})
+});
 
-export default GoalInput
+export default GoalInput;
