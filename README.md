@@ -3,7 +3,7 @@
 
 ## What you built? 
 
-For this tutorial, I built 2 separate apps following along with a great tutorial I found on Youtube. Utilizing React Native and React Hooks (which were really a bonus as a part of this tutorial), I coded and debugged myself.
+For this tutorial, I built 2 separate apps following along with a great tutorial I found on Youtube. Utilizing React Native and React Hooks (which were really a bonus as a part of this tutorial), I coded and debugged myself. I enjoyed how flexible react native was and found core react features to be intuitive to use and helpful with mobile development (even moreso than Android Studio in my opinion since styling is built in)
 <br />
 
 ### App 1: Simple Goal Application 
