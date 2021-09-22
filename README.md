@@ -13,13 +13,13 @@ For this application, users can input text into a modal text box and upon submit
 
 <br />
 
-![Home Page](/hacktivity-1\img\Home-page-goal-app.PNG)
+![Home Page](https://github.com/dartmouth-cs98/hack-a-thing-21f-1-jcole/blob/main/hacktivity-1/img/Home-page-goal-app.PNG)
 <br />
 
-![Main Page](/hacktivity-1\img\Main-page-goal-app.PNG)
+![Main Page](https://github.com/dartmouth-cs98/hack-a-thing-21f-1-jcole/blob/main/hacktivity-1/img/Main-page-goal-app.PNG)
 <br />
 
-![HReact Hooks](/hacktivity-1\img\react-hooks.PNG)
+![HReact Hooks](https://github.com/dartmouth-cs98/hack-a-thing-21f-1-jcole/blob/main/hacktivity-1/img/react-hooks.PNG)
 <br />
 
 ### App 2: Number Guesser Game
@@ -28,10 +28,10 @@ For this application, users can input text into a modal text box and upon submit
 For this multi-page application, users can submit a number between 1 and 99 (validated), and the app attempts to guess that number. This was a fun app because it involved both many pages of React Native, and also some game logic that was fun to implement. I also followed the tutorial closely, but found myself anticipating code to implement, and despite quite a bit of time spent debugging, I beleive after this app, I gained a much better understanding of the topic I was trying to learn.
 <br />
 
-![Game Screen](hacktivity-2\img\GameScreen.PNG)
+![Game Screen](https://github.com/dartmouth-cs98/hack-a-thing-21f-1-jcole/blob/main/hacktivity-2/img/GameScreen.PNG)
 <br />
 
-![Start Screen](hacktivity-2\img\StartScreen.PNG)
+![Start Screen](https://github.com/dartmouth-cs98/hack-a-thing-21f-1-jcole/blob/main/hacktivity-2/img/Startscreen.PNG)
 <br />
 
 
