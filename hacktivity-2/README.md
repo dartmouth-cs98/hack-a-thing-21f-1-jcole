@@ -1,0 +1,3 @@
+# Hacktivity-2: Second Part of React-Native Tutorial  
+
+I go into more depth in the outer README file, but this piece of code is meant to be a guesser game with a few constituent screens. Built around a start screen, a game screen, and a gameover screen, users input a number between 1 and 99 (validated), and the computer attempts to guess the number by way of repeated attempts to which the user responds 'Greater' or 'Lower.
