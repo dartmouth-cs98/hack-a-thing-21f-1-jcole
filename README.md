@@ -25,7 +25,7 @@ For this application, users can input text into a modal text box and upon submit
 ### App 2: Number Guesser Game
 <br />
 
-For this multi-page application, users can submit a number between 1 and 99 (validated), and the app attempts to guess that number. This was a fun app because it involved both many pages of React Native, and also some game logic that was fun to implement. I also followed the tutorial closely, but found myself anticipating code to implement, and despite quite a bit of time spent debugging, I beleive after this app, I gained a much better understanding of the topic I was trying to learn.
+For this multi-page application, users can submit a number between 1 and 99 (validated), and the app attempts to guess that number. This was a fun app because it involved both many pages of React Native, and also some game logic. I also followed the tutorial closely, but found myself anticipating code to implement, and despite quite a bit of time spent debugging, I believe after this app, I gained a much better understanding of the topic I was trying to learn.
 <br />
 
 ![Game Screen](https://github.com/dartmouth-cs98/hack-a-thing-21f-1-jcole/blob/main/hacktivity-2/img/GameScreen.PNG)
@@ -43,7 +43,7 @@ I completed this hack alone.
 
 ### What I Learned / What Worked
 
-While I haven't used React in a little while, I found that foundation to be extremely helpful syntactically, even though there were lots of new components to learn. While I took Android Programming last year, I am happy to have learned a framework that is flexible to iOS apps as well. I really enjoyed and found myself understanding much better the backend logic behind the apps, and can definitely see myself working more on this part of a larger project as well.
+While I haven't used React in a little while, I found that foundation to be extremely helpful syntactically, even though there were lots of new components to learn. While I took Android Programming last year, I am happy to have learned a framework that is flexible to iOS apps as well. I really enjoyed and found myself understanding much better the backend logic behind the apps. I can definitely see myself working more on this part of a larger project as well.
 
 ### What I Learned / What Didn't Work
 
